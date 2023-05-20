@@ -1,0 +1,27 @@
+{
+  "name": "react-component-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple React Component Boilerplate, based in React 17, uses vite asdev server, storybook for show case and jest for testing. Transpiling is done with just Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloOrigoni/react-component-boilerplate.git"
+  },
+  "keywords": [
+    "React",
+    "Typescript",
+    "storybook",
+    "vite",
+    "boilerplate",
+    "jest"
+  ],
+  "author": "Marcelo Origoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marceloOrigoni/react-component-boilerplate/issues"
+  },
+  "homepage": "https://github.com/marceloOrigoni/react-component-boilerplate#readme"
+}
